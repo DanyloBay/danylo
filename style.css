@@ -1,0 +1,13 @@
+.header {
+
+    background-color: aquamarine;
+
+}
+
+.header__title {
+    color: red;
+}
+
+.header__text {
+    color: gray;
+}
