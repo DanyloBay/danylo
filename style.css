@@ -1,13 +1,14 @@
-.header {
+.link {
+      display: inline-block;
+      padding: 16px 32px;
 
-    background-color: aquamarine;
+      border-radius: 3px;
+      background-color: teal;
+      color: white;
 
-}
-
-.header__title {
-    color: red;
-}
-
-.header__text {
-    color: gray;
+      font-family: sans-serif;
+      font-size: 14px;
+      text-decoration: none;
+      text-transform: uppercase;
+      font-weight: 700;
 }
